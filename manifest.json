@@ -1,0 +1,14 @@
+{
+  "vendor": "vtex",
+  "name": "mirai-zura",
+  "version": "0.1.1",
+  "builders": {
+    "node": "4.x"
+  },
+  "mustUpdateAt": "2020-02-06",
+  "scripts": {
+    "postreleasy": "vtex publish --verbose"
+  },
+  "title": "foo",
+  "description": "bar"
+}

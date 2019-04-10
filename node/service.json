@@ -1,0 +1,13 @@
+{
+  "stack": "nodejs",
+  "memory": -11231,
+  "ttl": 60,
+  "timeout": 15,
+  "minReplicas": -321,
+  "maxReplicas": -123,
+  "routes": {
+    "mirai": {
+      "path": "/mirai"
+    }
+  }
+}
