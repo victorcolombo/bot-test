@@ -1,5 +1,3 @@
-import bluebird from 'bluebird-global'
-
 import { hanamaru } from './test'
 
 const foo = (bla: string) => { console.log(bla + 2) }

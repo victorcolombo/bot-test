@@ -6,18 +6,3 @@
   version "11.12.2"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-11.12.2.tgz#d7f302e74b10e9801d52852137f652d9ee235da8"
   integrity sha512-c82MtnqWB/CqqK7/zit74Ob8H1dBdV7bK+BcErwtXbe0+nUGkgzq5NTDmRW/pAv2lFtmeNmW95b0zK2hxpeklg==
-
-bluebird-global@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/bluebird-global/-/bluebird-global-1.0.1.tgz#147c174f4e3a19740e80d992ea70ec3dc51d0d95"
-  integrity sha512-llTREi0V3EUM150DKdMLlXN/X2QsQ/hWJDiaGnivqeDwE32I0dmivYLU9/VvhotTzvvbv7OiM6zjVXYJ2dCmKQ==
-
-bluebird@^3.5.4:
-  version "3.5.4"
-  resolved "https://registry.yarnpkg.com/bluebird/-/bluebird-3.5.4.tgz#d6cc661595de30d5b3af5fcedd3c0b3ef6ec5714"
-  integrity sha512-FG+nFEZChJrbQ9tIccIfZJBz3J7mLrAhxakAbnrJWn8d7aKOC+LWifa0G+p4ZqKp4y13T7juYvdhq9NzKdsrjw==
-
-zstd-codec@^0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/zstd-codec/-/zstd-codec-0.1.1.tgz#ee0ec98a732e1c457d3eb33fcec3a5c2bee69196"
-  integrity sha512-9u1cihqoDPaq9Tbxneom8rleCSfz1hxXzz+RmydjOVYnlqkzoMqOpAdJ06Y/RgctUfdyuazXT2uyZMhlPb/x0Q==

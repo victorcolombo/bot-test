@@ -1,7 +1,7 @@
 {
   "vendor": "vtexgame23",
   "name": "mirai-zura",
-  "version": "0.1.2",
+  "version": "0.1.2-test.5",
   "builders": {
     "node": "4.x"
   },
