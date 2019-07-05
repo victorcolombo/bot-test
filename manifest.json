@@ -10,5 +10,6 @@
     "postreleasy": "vtex publish --verbose"
   },
   "title": "foo",
-  "description": "bar"
+  "description": "bar",
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }
